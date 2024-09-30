@@ -41,9 +41,9 @@ Se abrirá automáticamente una ventana en [localhost:4200](http://localhost:420
 2. Ve a [localhost:3000](http://localhost:3000)
 
 ## Vista previa
-![Vista previa](https://raw.githubusercontent.com/miltonAlan/Full-Stack-Angular-MPaucar/master/demo1.png "Vista previa 1")
-![Vista previa](https://raw.githubusercontent.com/miltonAlan/Full-Stack-Angular-MPaucar/master/demo2.png "Vista previa 2")
-![Vista previa](https://raw.githubusercontent.com/miltonAlan/Full-Stack-Angular-MPaucar/master/demo3.png "Vista previa 3")
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/Full-Stack-Angular-MPaucar/master/demo1.PNG "Vista previa 1")
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/Full-Stack-Angular-MPaucar/master/demo2.PNG "Vista previa 2")
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/Full-Stack-Angular-MPaucar/master/demo3.PNG "Vista previa 3")
 
 ## Por favor, abre un problema si
 * tienes alguna sugerencia para mejorar este proyecto
